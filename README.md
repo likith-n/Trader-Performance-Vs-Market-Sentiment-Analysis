@@ -236,4 +236,4 @@ This analysis reveals clear and statistically significant patterns in the relati
 
 The three proposed strategies provide a quantitative framework for adjusting trading activity based on market sentiment and individual trader characteristics. Implementation of these strategies with proper risk management may improve risk-adjusted returns by better aligning trading activity with favorable market conditions.
 
-Total time invested: Approximately 3 hours
+
